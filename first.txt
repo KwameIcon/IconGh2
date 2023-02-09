@@ -1,1 +1,1 @@
-This file is for git commands
+This file is for git commands. Making changes to this file.

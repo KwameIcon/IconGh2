@@ -1,1 +1,1 @@
-Another file for the git commands
+Another file for the git commands. Another changes to this file.
